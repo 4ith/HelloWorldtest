@@ -31,6 +31,9 @@ namespace HelloWorldDLL
             }
         }
 
-       
+        public string GetHelloWorld(object p)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

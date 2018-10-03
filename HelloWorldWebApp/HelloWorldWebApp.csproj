@@ -213,7 +213,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HelloWorldDLL\HelloWorldDLL.csproj">
-      <Project>{1fe9438e-7331-4043-a5b8-0bb2a3629c61}</Project>
+      <Project>{1FE9438E-7331-4043-A5B8-0BB2A3629C61}</Project>
       <Name>HelloWorldDLL</Name>
     </ProjectReference>
   </ItemGroup>
