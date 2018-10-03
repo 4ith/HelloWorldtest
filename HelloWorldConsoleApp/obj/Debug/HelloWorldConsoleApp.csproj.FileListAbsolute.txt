@@ -1,0 +1,10 @@
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldDLL.dll
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldDLL.pdb
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojAssemblyReference.cache
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CopyComplete
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

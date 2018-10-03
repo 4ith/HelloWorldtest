@@ -1,0 +1,6 @@
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\bin\Debug\HelloWorldDLL.dll
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\bin\Debug\HelloWorldDLL.pdb
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\obj\Debug\HelloWorldDLL.csproj.CoreCompileInputs.cache
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\obj\Debug\HelloWorldDLL.dll
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\obj\Debug\HelloWorldDLL.pdb
+c:\users\chari\source\repos\HelloWorldConsoleApp\HelloWorldDLL\obj\Debug\HelloWorldDLL.csprojAssemblyReference.cache
